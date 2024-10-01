@@ -150,7 +150,7 @@ p {
 
     border-radius: 0.5rem;
 
-    background-color: var(--very-light-gray);
+    background-color: white;
 
     box-shadow: 0.25rem 0.5rem 0.5rem 0.25rem rgba(193, 197, 211, 0.5);
 }
